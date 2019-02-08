@@ -6,15 +6,15 @@
 # a) Data Resources
 
 
-Image verification corpus: [image-verification-corpus](https://github.com/MKLab-ITI/image-verification-corpus)
+* [Image Verification Corpus](https://github.com/MKLab-ITI/image-verification-corpus)
 
-Video verification corpus: [fake-video-corpus](https://github.com/MKLab-ITI/fake-video-corpus)
+* [Fake Video Corpus](https://github.com/MKLab-ITI/fake-video-corpus)
 
-Kaggle dataset: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
+* [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
 
-FakeNewsChallenge-1 [Fake News Challenge 1](https://github.com/FakeNewsChallenge/fnc-1)
+* [Fake News Challenge 1](https://github.com/FakeNewsChallenge/fnc-1)
 
-FakeNewsCorpus [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - about 10 million news articles classified using [opensources.co](http://opensources.co) types 
+* [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - about 10 million news articles classified using [opensources.co](http://opensources.co) types 
 
 Wikipedia Fact-Checking Dataset [FEVER: a large-scale dataset for Fact Extraction and VERification](http://aclweb.org/anthology/N18-1074)
 
