@@ -28,14 +28,14 @@
  
 # c) Tools
 
-[News popularity prediction](https://github.com/MKLab-ITI/news-popularity-prediction) A set of methods that predict the future values of popularity indices for news posts using a variety of features.
+* [News popularity prediction](https://github.com/MKLab-ITI/news-popularity-prediction) A set of methods that predict the future values of popularity indices for news posts using a variety of features.
 
-[Contexual video verification](https://github.com/MKLab-ITI/contextual-video-verification) Provides support to end users for verifying web videos using metadata and contextual signals.
+* [Contexual video verification](https://github.com/MKLab-ITI/contextual-video-verification) Provides support to end users for verifying web videos using metadata and contextual signals.
 
-[BS-detector](https://github.com/bs-detector/bs-detector) A browser extension that alerts users to unreliable news sources. 
+* [BS-detector](https://github.com/bs-detector/bs-detector) A browser extension that alerts users to unreliable news sources. 
 
-[Image verification assistant](http://reveal-mklab.iti.gr/reveal/) helps analyse the veracity of online media
+* [Image verification assistant](http://reveal-mklab.iti.gr/reveal/) helps analyse the veracity of online media
 
-[Tweet verification assistant](http://reveal-mklab.iti.gr/reveal/fake/) helps analyse the veracity of a tweet
+* [Tweet verification assistant](http://reveal-mklab.iti.gr/reveal/fake/) helps analyse the veracity of a tweet
 
-[Generating summaries from social media posts](https://github.com/MKLab-ITI/mgraph-summarization) Implementation of MGraph framework for generating summaries from large collections of social media posts (e.g. tweets).
+* [Generating summaries from social media posts](https://github.com/MKLab-ITI/mgraph-summarization) Implementation of MGraph framework for generating summaries from large collections of social media posts (e.g. tweets).
