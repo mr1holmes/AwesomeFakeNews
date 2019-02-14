@@ -6,43 +6,36 @@
 # a) Data Resources
 
 
-* [Image Verification Corpus](https://github.com/MKLab-ITI/image-verification-corpus)
+* [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus): about 10 million news articles classified using [opensources.co](http://opensources.co) types
+* [Image Verification Corpus](https://github.com/MKLab-ITI/image-verification-corpus): dataset of fake and real posts with images shared in social media (twitter for now).
 
-* [Fake Video Corpus](https://github.com/MKLab-ITI/fake-video-corpus)
+* [Fake Video Corpus](https://github.com/MKLab-ITI/fake-video-corpus): annotated dataset of debunked and verified user-generated videos (UGVs), along with multiple near-duplicate reposted versions of them.
 
-* [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
+* [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news): Kaggle dataset
 
-* [Fake News Challenge 1](https://github.com/FakeNewsChallenge/fnc-1)
+* [Fake News Challenge 1](https://github.com/FakeNewsChallenge/fnc-1): stance detection dataset for fake news challenge-1
+* [BuzzFeedNews](https://github.com/BuzzFeedNews/everything): An index of all our open-source data, analysis, libraries, tools, and guides by BuzzFeed.
 
-* [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - about 10 million news articles classified using [opensources.co](http://opensources.co) types 
-
-Wikipedia Fact-Checking Dataset [FEVER: a large-scale dataset for Fact Extraction and VERification](http://aclweb.org/anthology/N18-1074)
-
-Data for politifact.com, also check [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
-
-Some websites sharing fake articles:
-https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
-
-BuzzFeedNews https://github.com/BuzzFeedNews/everything
-
-LIAR dataset: https://github.com/nishitpatel01/Fake_News_Detection/tree/master/liar_dataset
+* [LIARdataset](https://github.com/nishitpatel01/Fake_News_Detection/tree/master/liar_dataset)
 
 
 
 # b) Related Publications
-[SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours](http://www.aclweb.org/anthology/S17-2006)
+* [FEVER: a large-scale dataset for Fact Extraction and VERification](http://aclweb.org/anthology/N18-1074)
+* [SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours](http://www.aclweb.org/anthology/S17-2006)
+* [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
  
  
 # c) Tools
 
-News popularity prediction: [news-popularity-prediction](https://github.com/MKLab-ITI/news-popularity-prediction)
+[News popularity prediction](https://github.com/MKLab-ITI/news-popularity-prediction) A set of methods that predict the future values of popularity indices for news posts using a variety of features.
 
-Contexual video verification: [contexual-video-verification](https://github.com/MKLab-ITI/contextual-video-verification)
+[Contexual video verification](https://github.com/MKLab-ITI/contextual-video-verification) Provides support to end users for verifying web videos using metadata and contextual signals.
 
-BS-detector: https://github.com/bs-detector/bs-detector
+[BS-detector](https://github.com/bs-detector/bs-detector) A browser extension that alerts users to unreliable news sources. 
 
-Image verification assistant: [image-verification-assistant](http://reveal-mklab.iti.gr/reveal/)
+[Image verification assistant](http://reveal-mklab.iti.gr/reveal/) helps analyse the veracity of online media
 
-Tweet verification assistant: [tweet-verification-assistant](http://reveal-mklab.iti.gr/reveal/)
+[Tweet verification assistant](http://reveal-mklab.iti.gr/reveal/fake/) helps analyse the veracity of a tweet
 
-Generating summaries from social media posts: [summary-social-media-post](https://github.com/MKLab-ITI/mgraph-summarization)
+[Generating summaries from social media posts](https://github.com/MKLab-ITI/mgraph-summarization) Implementation of MGraph framework for generating summaries from large collections of social media posts (e.g. tweets).
